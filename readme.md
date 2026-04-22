@@ -10,7 +10,7 @@ install_plugin.php should be installed at /usr/local/totara although it can be i
 
 
 ## Usage:
-		php install_plugin.php <path to destination Totara folder> <plugin name>
+		php install_plugin.php <path to destination Totara folder> <plugin name> <SSHuser>
 
 		e.g. $ php install_plugin.php /var/www/test.totata.co.uk ctxdirectlogin
 
